@@ -204,3 +204,11 @@ a {
 a:hover, a:focus, a:active {
   color: #116B6A;
 }
+
+#projetos img {
+  margin-right: 10px;
+}
+
+p {
+  text-align: justify;
+}
